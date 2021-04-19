@@ -1,0 +1,2 @@
+# DesignPatternsGameSample_XAN
+设计模式学习，和简单使用案例Sample
